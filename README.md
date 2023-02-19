@@ -2,9 +2,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StavrosNik4&show_icons=true&theme=transparent)
 
-- 🇬🇷/🇬🇧
-- 🌱 I’m currently studying Computer Science in Aristotle University of Thessaloniki
-- 🔭 I’m currently working on these 2 projects: a Discord Bot and [MALScraper](https://github.com/Kylart/MalScraper)
+- 🇬🇷/🇬🇧 
+- 📚 I’m studying Computer Science in Aristotle University of Thessaloniki
+- 🌱 I’m currently (re)learning C++
+- 🔭 I’m currently working on a Discord Bot (release soon)
 - 📫 How to reach me: stavniko@csd.auth.gr
 
 <!--
