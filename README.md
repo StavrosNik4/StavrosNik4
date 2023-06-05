@@ -4,8 +4,8 @@
 
 - 🇬🇷/🇬🇧 
 - 📚 I’m studying Computer Science in Aristotle University of Thessaloniki
-- 🌱 I’m currently (re)learning C/C++ and Graphics with OpenGL
-- 🔭 I’m currently working on a Discord Bot (release soon)
+- 🌱 I’m currently learning Graphics with OpenGL
+- 🔭 I’m working on a Discord Bot (release soon) and an android app (also realease soon)
 - 📫 How to reach me: stavniko@csd.auth.gr
 
 <!--
