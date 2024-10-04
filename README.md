@@ -2,10 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StavrosNik4&show_icons=true&theme=transparent)
 
-- 🇬🇷/🇬🇧 
+- 🇬🇷/🇬🇧/🇮🇹
 - 📚 I’m studying Computer Science in Aristotle University of Thessaloniki
-- 🌱 I’m currently learning Graphics with OpenGL
-- 🔭 I’m working on a Discord Bot (release soon) and an android app (also realease soon)
 - 📫 How to reach me: stavniko@csd.auth.gr
 
 <!--
