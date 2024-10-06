@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StavrosNik4&show_icons=true&theme=transparent)
-
 - 🇬🇷/🇬🇧/🇮🇹
 - 📚 I’m studying Computer Science in Aristotle University of Thessaloniki
 - 📫 How to reach me: stavniko@csd.auth.gr
 
 <!--
 **StavrosNik4/StavrosNik4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StavrosNik4&show_icons=true&theme=transparent)
 
 Here are some ideas to get you started:
 
