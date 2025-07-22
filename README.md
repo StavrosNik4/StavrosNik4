@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🇬🇷/🇬🇧/🇮🇹
-- 📚 I’m studying Computer Science in Aristotle University of Thessaloniki
+- 📚 Computer Science Graduate from Aristotle University of Thessaloniki
 - 📫 How to reach me: stavniko@csd.auth.gr
 
 <!--
